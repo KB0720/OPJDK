@@ -1,0 +1,9 @@
+# Written by SepperlUndCo, take care whatever you do!
+FullVanish:
+  messages:
+    hide: Du bist jetzt Unsichtbar!
+    unhide: Achtung du bist Sichtbar!
+    noConsoleSup: Kein Konsolen Support!
+    plugin: 'Das Plugin:'
+    writtenBy: 'ist geschrieben von:'
+  hidden: []

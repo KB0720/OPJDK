@@ -1,0 +1,23 @@
+lastAccountName: Kbence0720
+timestamps:
+  login: 1585576322561
+  logout: 1585576932905
+  lastteleport: 1585575710357
+ipAddress: 0:0:0:0:0:0:0:1
+godmode: false
+afk: false
+money: '300.0'
+lastlocation:
+  world: world
+  x: 61.30000001192093
+  y: 54.200000047683716
+  z: 268.58596606641834
+  yaw: -279.73535
+  pitch: 6.483631
+logoutlocation:
+  world: world
+  x: 56.71899781685755
+  y: 70.0
+  z: 246.70026578133727
+  yaw: 210.31421
+  pitch: 1.5335991

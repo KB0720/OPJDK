@@ -1,0 +1,50 @@
+# > ---
+# > LeakParkour Configuration
+# > Visit Spigot page for more informations 
+# > https://goo.gl/Z99sVg
+# > ---
+
+Settings:
+  language: 'en_US'
+  template:
+      start:
+        - '&e&lParkour Challenge'
+        - '&a&lStart'
+      checkpoint:
+        - '&e&lCheckpoint'
+        - '&b&l#%id'
+      finish:
+        - '&e&lParkour Challenge'
+        - '&c&lEnd'
+  items:
+      create-point:
+        - '&f&lStart Point/&f&lCheckpoint %id'
+        - '&7Put this block in the place'
+        - '&7where you want to start parkour.'
+      create-rubber:
+        - '&c&lRubber'
+        - '&7Using this item, you can'
+        - '&7remove selected checkpoint.'
+      create-finalize:
+        - '&a&lFinalize'
+        - '&7Using this item, you can'
+        - '&7finalize your parkour.'
+      create-cancel:
+        - '&c&lCancel'
+        - '&7Using this item, parkour'
+        - '&7will be removed without'
+        - '&7saving.'
+      parkour-cancel:
+        - '&cCancel'
+      parkour-reset:
+        - '&cReset'
+      parkour-point:
+        - '&aTeleport to Last Checkpoint'
+  permissions:
+      parkour-command: 'leakparkour.parkour'
+      create-command: 'leakparkour.create'
+      delete-command: 'leakparkour.delete'
+      list-command: 'leakparkour.list'
+      checkpoint-command: 'leakparkour.checkpoint'
+      reset-command: 'leakparkour.reset'
+      cancel-command: 'leakparkour.cancel'

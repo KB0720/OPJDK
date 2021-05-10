@@ -1,0 +1,21 @@
+lastAccountName: ZolEnchant123
+timestamps:
+  login: 1585570366397
+  lastteleport: 1585568613742
+  logout: 1585570507904
+ipAddress: 0:0:0:0:0:0:0:1
+lastlocation:
+  world: world
+  x: 72.93989845823965
+  y: 64.0
+  z: 257.9887415368637
+  yaw: -260.54984
+  pitch: 10.050019
+logoutlocation:
+  world: world
+  x: 62.757329217518745
+  y: 64.0
+  z: 255.80805340551177
+  yaw: -291.2997
+  pitch: 1.8000149
+godmode: false
